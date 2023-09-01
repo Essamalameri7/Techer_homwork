@@ -8,7 +8,8 @@ body {
 }
 
 .layout_padding {
-  padding: 40px 0;
+  padding: 20px 0;
+  
 }
 
 
@@ -467,7 +468,7 @@ a:focus {
 .service_section .btn-box a {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #7335b7;
+  background-color: #2e1c4e;
   color: #ffffff;
   border-radius: 5px;
   -webkit-transition: all 0.3s;
@@ -527,6 +528,7 @@ a:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+          background-color: #7335b7;
 }
 
 .case_section .heading_container h2::before {
